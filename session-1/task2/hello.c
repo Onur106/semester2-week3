@@ -1,4 +1,4 @@
-
+ 
 /*
  * Hello world program
  */
@@ -9,6 +9,6 @@ int main( void ) {
     
     printf("Hello\n");
 
-    return 0;    
+    return 1;    
 }	
 
