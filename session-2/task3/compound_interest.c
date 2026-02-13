@@ -18,6 +18,7 @@ int main( void ) {
     final_amount = 120 * ( 1 + 5 )^5;
 
     printf("Final amount is: %.2f\n", final_amount);
+    
     /*
      * Implement the formula for compound interest.
      * Print out the final amount and the gain compared to the initial deposit.
