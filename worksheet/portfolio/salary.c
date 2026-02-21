@@ -23,6 +23,8 @@
    double ni_fraction = ni_rate / 100.0;
    double tax_fraction = tax_rate / 100.0;
 
+   printf("Salary £%.2f\n", salary);
+
    ni_contribution = salary * ni_fraction;
    salary_after_ni = salary - ni_contribution;
 
