@@ -39,7 +39,7 @@
 
    printf("NI contribution £%.2f\n", ni_contribution);
    printf("Tax contribution £%.2f\n", tax_contribution);
-   printf("Take home salary £%.2f\n", take_home_salary);
+   printf("Take home salary £%.2f", take_home_salary);
 
     
 
